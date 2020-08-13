@@ -12,7 +12,7 @@ public class Main {
         for(int i=0;i<names.size();i++)
         {
             if(names.get(i).contains("oggy"))
-                oggys.add(names[i]);
+                oggys.add(names.get(i));
         }
         return oggys.size() == 0;
     }
