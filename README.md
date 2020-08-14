@@ -6,6 +6,4 @@ This program intends to remove strings containing 'oggy' from a list of strings.
 
 ## Method
 
-The code doesn't work according to the intention. Make it succeed.
-
-Don't forget to update this file after fixing the code.
+The code uses Iterator and removes the words or strings containing oggy from the iterator, using next() method
